@@ -307,31 +307,48 @@ button {
   color: var(--success-color);
   font-weight: bold;
 }
-.search {
-  padding: 0.5rem 1rem;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 1rem;
+.nanfooter{
+  text-align:center; 
+  margin-top: 80px; 
+  padding-top: 50px; 
+  padding-bottom: 40px; 
+  min-width: 750px;
 }
-.nav-actions{
-  display: flex;
-  gap: 1rem;
+.nanlink{
+  width: 15px; 
+  border-radius: 5px; 
+  display: inline;
+}
+.nannav{
+  min-width: 750px;
+}
+.nannavico{
+  display: flex; 
   align-items: center;
-  padding-left: 50px;
-}
-.dashboard-main {
-  min-height: calc(100vh - 200px);
-  padding: 2rem 0;
-  background-color: var(--background-alt);
-}
-.images{
-  width: 40px;
-  height: 40px;
-  border-radius: 5px;
-  margin-bottom: 10px;
-}
-.edit-profile {
-  width: 40px;
-  height: 20px;
   
+}
+.nannavicoimg{
+  width: 40px; 
+  margin-right: 10px;
+}
+.nannavicotxt{
+  margin-right: 50px;
+}
+.nannavlink{
+  min-width: 450px;
+}
+.nanhero{
+  min-width: 750px;
+}
+.nanhero1{
+  margin-bottom: 0%;
+}
+.nanabout1{
+  margin-top: 20px; margin-bottom: 10px;
+}
+.nanx1{
+  margin-top: 40px;
+}
+.nanx2{
+  margin-top: 20px;
 }
