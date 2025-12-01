@@ -70,5 +70,7 @@ Connect Platform - Project 2
 \### Aiden Romero
 
 \- created company-dashboard.html
+\- edited spelling errors
+
 
 
